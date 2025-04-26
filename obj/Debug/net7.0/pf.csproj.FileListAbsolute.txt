@@ -1,0 +1,90 @@
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pf.exe
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pf.deps.json
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pf.runtimeconfig.json
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\System.CommandLine.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\cs\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\de\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\es\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\fr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\it\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\ja\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\ko\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pl\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\ru\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\tr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\bin\Debug\net7.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.csproj.AssemblyReference.cache
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.AssemblyInfoInputs.cache
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.AssemblyInfo.cs
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.csproj.CoreCompileInputs.cache
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.csproj.CopyComplete
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\refint\pf.dll
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\pf.genruntimeconfig.cache
+C:\Users\e3226\Documents\dassi\שנה ב\פרקטיקוד\project1\project1\obj\Debug\net7.0\ref\pf.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pf.exe
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pf.deps.json
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pf.runtimeconfig.json
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\System.CommandLine.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\cs\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\de\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\es\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\fr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\it\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\ja\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\ko\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pl\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\ru\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\tr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\bin\Debug\net7.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.AssemblyReference.cache
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.AssemblyInfoInputs.cache
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.AssemblyInfo.cs
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.CoreCompileInputs.cache
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.CopyComplete
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\refint\pf.dll
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\pf.genruntimeconfig.cache
+C:\Users\e3226\Documents\dassi\מסלול\שנה ב\פרקטיקוד\project1\obj\Debug\net7.0\ref\pf.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pf.exe
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pf.deps.json
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pf.runtimeconfig.json
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\System.CommandLine.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\cs\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\de\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\es\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\fr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\it\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\ja\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\ko\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pl\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\ru\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\tr\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\bin\Debug\net7.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.AssemblyReference.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.AssemblyInfoInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.AssemblyInfo.cs
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.CoreCompileInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.csproj.CopyComplete
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\refint\pf.dll
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\pf.genruntimeconfig.cache
+C:\Users\e3226\Documents\dassi\maslul\b\פרקטיקוד\project1\obj\Debug\net7.0\ref\pf.dll
