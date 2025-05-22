@@ -1,3 +1,5 @@
+# Files-Bundler
+Development of a CLI application for bundling code files into a single file.
 <h1 align="center">Hi 👋, I'm Hadasa Erenshtein</h1>
 <h3 align="center">A passionate fullStack developer from Israel</h3>
 
